@@ -1,0 +1,19 @@
+{
+  "name": "rescueme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/express-serve-static-core": "^4.17.2",
+    "@types/node": "^13.7.0",
+    "@types/typescript": "^2.0.0",
+    "express": "^4.17.1",
+    "morgan": "^1.9.1"
+  }
+}
